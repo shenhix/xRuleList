@@ -1,6 +1,6 @@
 #!name= Ipad TikTok-Us 
 #!desc= 美国
-#!system=ipad
+#!system=ios
 
 [URL Rewrite]
 #tiktok解锁直播区域限制
