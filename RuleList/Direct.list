@@ -3,6 +3,7 @@
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
 PROCESS-NAME,UUBooster
+
 # > Download
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
@@ -14,3 +15,5 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 
+# > EMBY终点站
+DOMAIN-SUFFIX,emby.wtf
