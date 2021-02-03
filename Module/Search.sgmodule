@@ -84,7 +84,7 @@ hostname = %APPEND% duckduckgo.com
 # 社区
 
 # db：豆瓣
-^https:\/\/duckduckgo.com\/\?q=db\+([^&]+).+ https://m.douban.com/search/?query=$1 302
+^https:\/\/duckduckgo.com\/\?q=db\+([^&]+).+ https://www.douban.com/search/?query=$1 302
 
 # zh: 知乎
 ^https:\/\/duckduckgo.com\/\?q=zh\+([^&]+).+ https://www.zhihu.com/search?type=content&q=$1 302
@@ -115,13 +115,13 @@ hostname = %APPEND% duckduckgo.com
 ^https:\/\/duckduckgo.com\/\?q=amz\+([^&]+).+ https://www.amazon.cn/gp/aw/s/?k=$1 302
 
 # jd : 京东
-^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ https://so.m.jd.com/ware/search.action?keyword=$1 302
+^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ https://so.www.jd.com/ware/search.action?keyword=$1 302
 
 # tb: 淘宝
-^https:\/\/duckduckgo.com\/\?q=tb\+([^&]+).+ https://s.m.taobao.com/h5?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=tb\+([^&]+).+ https://s.www.taobao.com/h5?q=$1 302
 
 # tm: 天猫
-^https:\/\/duckduckgo.com\/\?q=tm\+([^&]+).+ https://s.m.tmall.com/m/search.htm?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=tm\+([^&]+).+ https://s.www.tmall.com/m/search.htm?q=$1 302
 
 
 # 视频资源
@@ -130,7 +130,7 @@ hostname = %APPEND% duckduckgo.com
 ^https:\/\/duckduckgo.com\/\?q=ac\+([^&]+).+ https://www.acfun.cn/search?keyword==$1 302
 
 # bili (哔哩哔哩) 
-^https:\/\/duckduckgo.com\/\?q=bili\+([^&]+).+ https://m.bilibili.com/search?keyword=$1 302
+^https:\/\/duckduckgo.com\/\?q=bili\+([^&]+).+ https://www.bilibili.com/search?keyword=$1 302
 
 # ytb  (YouTube)
 ^https:\/\/duckduckgo.com\/\?q=ytb\+([^&]+).+ https://www.youtube.com/results?search_query=$1 302
