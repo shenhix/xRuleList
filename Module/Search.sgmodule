@@ -115,13 +115,13 @@ hostname = %APPEND% duckduckgo.com
 ^https:\/\/duckduckgo.com\/\?q=amz\+([^&]+).+ https://www.amazon.cn/gp/aw/s/?k=$1 302
 
 # jd : 京东
-^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ https://so.www.jd.com/ware/search.action?keyword=$1 302
+^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ https://so.jd.com/ware/search.action?keyword=$1 302
 
 # tb: 淘宝
-^https:\/\/duckduckgo.com\/\?q=tb\+([^&]+).+ https://s.www.taobao.com/h5?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=tb\+([^&]+).+ https://s.taobao.com/h5?q=$1 302
 
 # tm: 天猫
-^https:\/\/duckduckgo.com\/\?q=tm\+([^&]+).+ https://s.www.tmall.com/m/search.htm?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=tm\+([^&]+).+ https://s.tmall.com/m/search.htm?q=$1 302
 
 
 # 视频资源
