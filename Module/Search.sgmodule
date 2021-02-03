@@ -162,8 +162,8 @@ hostname = %APPEND% duckduckgo.com
 # av01
 ^https:\/\/duckduckgo.com\/\?q=av01\+([^&]+).+ https://www.av01.tv/search/videos?search_query=$1 302
 
-# angle
-^https:\/\/duckduckgo.com\/\?q=angle\+([^&]+).+ https://avgle.com/search/videos?search_query=$1 302
+# avgle
+^https:\/\/duckduckgo.com\/\?q=avgle\+([^&]+).+ https://avgle.com/search/videos?search_query=$1 302
 
 # javplayer
 ^https:\/\/duckduckgo.com\/\?q=jav\+([^&]+).+ https://javplayer.com/search/video/?s=$1 302
