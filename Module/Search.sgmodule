@@ -172,7 +172,7 @@ hostname = %APPEND% duckduckgo.com
 ^https:\/\/duckduckgo.com\/\?q=jav\+([^&]+).+ https://javplayer.com/search/video/?s=$1 302
 
 # jable
-^https:\/\/duckduckgo.com\/\?q=jab(\+|%20)([^&]+).+ https://jable.tv/search//$2 302
+^https:\/\/duckduckgo.com\/\?q=jab(\+|%20)([^&]+).+ https://jable.tv/search/$2/ 302
 
 # 默认搜索
 
