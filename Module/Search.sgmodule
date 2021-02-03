@@ -132,7 +132,7 @@ hostname = %APPEND% duckduckgo.com
 
 # tm: 天猫
 # ^https:\/\/duckduckgo.com\/\?q=tm\+([^&]+).+ https://s.tmall.com/m/search.htm?q=$1 302
-^https:\/\/duckduckgo.com\/\?q=tmall\+([^&]+).+ https://s.tmall.com/m/search.htm?q=$1 302
+^https:\/\/duckduckgo.com\/\?q=tmall\+([^&]+).+ http://list.tmall.com/search_product.htm?q=$1 302
 
 
 # 视频资源
@@ -154,6 +154,19 @@ hostname = %APPEND% duckduckgo.com
 # tgd  (t.me/gdurl 搜索 Google Drive 资源)
 ^https:\/\/duckduckgo.com\/\?q=tgd\+([^&]+).+ https://t.me/s/gdurl?q=$1 302
 
+# 成人资源
+
+# netflav
+^https:\/\/duckduckgo.com\/\?q=netflav\+([^&]+).+ https://netflav.com/search?type=title&keyword=$1 302
+
+# av01
+^https:\/\/duckduckgo.com\/\?q=av01\+([^&]+).+ https://www.av01.tv/search/videos?search_query=$1 302
+
+# angle
+^https:\/\/duckduckgo.com\/\?q=angle\+([^&]+).+ https://avgle.com/search/videos?search_query=$1 302
+
+# javplayer
+^https:\/\/duckduckgo.com\/\?q=jav\+([^&]+).+ https://javplayer.com/search/video/?s=$1 302
 
 # 默认搜索
 
