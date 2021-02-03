@@ -123,7 +123,7 @@ hostname = %APPEND% duckduckgo.com
 ^https:\/\/duckduckgo.com\/\?q=amz\+([^&]+).+ https://www.amazon.cn/gp/aw/s/?k=$1 302
 
 # jd : 京东
-# ^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ https://so.jd.com/ware/search.action?keyword=$1 302
+# ^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ https://so.m.jd.com/ware/search.action?keyword=$1 302
 ^https:\/\/duckduckgo.com\/\?q=jd\+([^&]+).+ http://search.jd.com/Search?keyword=$1 302
 
 # tb: 淘宝
