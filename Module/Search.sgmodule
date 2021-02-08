@@ -52,7 +52,6 @@ hostname = %APPEND% duckduckgo.com
 
 #gi   (Google图片)
 ^https:\/\/duckduckgo.com\/\?q=gi\+([^&]+).+ https://www.google.com/search?&tbm=isch&q=$1 302
-^(http|https):\/\/(www.)?(g|google)\.com\.hk https://www.google.com 302
 
 # gh   (GitHub)
 ^https:\/\/duckduckgo.com\/\?q=gh\+([^&]+).+ https://github.com/search?q=$1 302
