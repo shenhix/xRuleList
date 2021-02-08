@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,ff-10.com
 DOMAIN-KEYWORD,sbvideocdn
 
 # clubhouse
+DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
 DOMAIN-KEYWORD,clubhouse
