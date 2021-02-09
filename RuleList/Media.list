@@ -47,7 +47,9 @@ USER-AGENT,Clubhouse*
 IP-CIDR,52.52.84.170/32,no-resolve
 DOMAIN,ap4.agora.io
 DOMAIN,api.amplitude.com
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,maintenance.joinclubhouse.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
 DOMAIN-KEYWORD,clubhouse
