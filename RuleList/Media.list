@@ -43,6 +43,10 @@ DOMAIN-SUFFIX,ff-10.com
 DOMAIN-KEYWORD,sbvideocdn
 
 # clubhouse
+USER-AGENT,Clubhouse*
+IP-CIDR,52.52.84.170/32
+DOMAIN,ap4.agora.io
+DOMAIN,api.amplitude.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
