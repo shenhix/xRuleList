@@ -16,4 +16,4 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 
 # > EMBY终点站
-# DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.wtf
