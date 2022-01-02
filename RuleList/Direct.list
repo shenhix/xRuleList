@@ -15,3 +15,5 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 
+# Nfmoveis
+DOMAIN-SUFFIX,nfmovies.com
