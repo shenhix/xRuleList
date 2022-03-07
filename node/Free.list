@@ -1,45 +1,32 @@
-default_name_1 = vmess, 104.27.89.125, 443, username=24b4b1e1-7a89-45f6-858c-242cf53b5bdb, tls=true, ws=true, ws-path=24b4b1e1-7a89-45f6-858c-242cf53b5bdb-vmess, sni=104.27.89.125, ws-headers=Host:104.27.89.125, skip-cert-verify=0, tfo=false
-🇯🇵 _JP_日本_2 = vmess, ms.byronwood.co.uk, 443, username=0ff0b97e-31ea-4447-81da-2b1b5f6a2a7f, tls=true, ws=true, ws-path=/iso-windows10, sni=ms.byronwood.co.uk, ws-headers=Host:ms.byronwood.co.uk, skip-cert-verify=0, tfo=false
-🇺🇸 _US_美国_3 = ss, 169.197.142.99, 8091, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false
-🇬🇧 _GB_英国_4 = ss, 172.99.190.92, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false
-🇨🇦 _CA_加拿大_5 = ss, 134.195.196.187, 3306, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false
-🇨🇦 _CA_加拿大_6 = ss, 134.195.196.187, 8119, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false
-🇨🇦 _CA_加拿大_7 = ss, 134.195.196.68, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false
-🇨🇦 _CA_加拿大_8 = ss, 134.195.196.187, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false
-🇨🇦 _CA_加拿大_9 = ss, 134.195.196.68, 443, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false
-🇨🇦 _CA_加拿大_10 = ss, 134.195.196.187, 8009, encrypt-method=aes-256-gcm, password=XKFKl2rULjIp74, tfo=false
-🇨🇦 _CA_加拿大_11 = ss, 134.195.196.187, 5003, encrypt-method=aes-256-gcm, password=g5MeD6Ft3CWlJId, tfo=false
-default_name_12 = vmess, cm.db-link.in, 443, username=64e167a8-5cf1-3bbc-866e-13e43b97dda0, tls=true, ws=true, ws-path=/db, sni=cm.db-link.in, ws-headers=Host:cm.db-link.in, skip-cert-verify=0, tfo=false
-🇺🇸 _US_美国_13 = ss, 169.197.142.187, 6697, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false
-🇫🇷 _FR_法国_14 = ss, 51.255.66.185, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false
-🇨🇦 _CA_加拿大_15 = ss, 134.195.196.3, 8008, encrypt-method=aes-256-gcm, password=XKFKl2rULjIp74, tfo=false
-🇨🇦 _CA_加拿大_16 = ss, 134.195.196.68, 6379, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false
-🇺🇸 _US_美国_17 = ss, 169.197.142.99, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false
-🇺🇸 _US_美国_18 = ss, 169.197.142.187, 8008, encrypt-method=aes-256-gcm, password=XKFKl2rULjIp74, tfo=false
-🇺🇸 _US_美国_19 = ss, 169.197.142.99, 8090, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false
-🇺🇸 _US_美国_20 = ss, 38.91.100.102, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false
-🇨🇦 _CA_加拿大_21 = ss, 134.195.196.3, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false
-🇬🇧 _GB_英国_22 = ss, 172.99.190.92, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false
-🇨🇦 _CA_加拿大_23 = ss, 134.195.196.187, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false
-🇨🇦 _CA_加拿大_24 = ss, 134.195.196.68, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false
-🇨🇦 _CA_加拿大_25 = ss, 134.195.196.3, 8881, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false
-🇨🇦 _CA_加拿大_26 = ss, 134.195.196.68, 8888, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false
-🇬🇧 _GB_英国_27 = ss, 172.99.190.92, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false
-🇨🇦 _CA_加拿大_28 = ss, 134.195.196.187, 443, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false
-🇺🇸 _US_美国_29 = vmess, iesei1ei.com, 443, username=aba50dd4-5484-3b05-b14a-4661caf862d5, tls=true, ws=true, ws-path=/ws, sni=iesei1ei.com, ws-headers=Host:iesei1ei.com, skip-cert-verify=0, tfo=false
-🇨🇦 _CA_加拿大_30 = ss, 134.195.196.68, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false
-🇨🇦 _CA_加拿大_31 = ss, 134.195.196.187, 8091, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false
-🇺🇸 _US_美国_32 = ss, 38.86.135.36, 5600, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false
-🇫🇷 _FR_法国_33 = ss, 51.255.66.185, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false
-🇨🇦 _CA_加拿大_34 = ss, 134.195.196.68, 5601, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false
-🇺🇸 _US_美国_35 = ss, 169.197.142.187, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false
-🇨🇦 _CA_加拿大_36 = ss, 134.195.196.187, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false
-🇨🇦 _CA_加拿大_37 = ss, 134.195.196.187, 2375, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false
-🇨🇦 _CA_加拿大_38 = ss, 134.195.196.187, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false
-🇨🇦 _CA_加拿大_39 = ss, 134.195.196.3, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false
-🇨🇦 _CA_加拿大_40 = ss, 134.195.196.68, 6697, encrypt-method=aes-256-gcm, password=TEzjfAYq2IjtuoS, tfo=false
-🇨🇦 _CA_加拿大_41 = ss, 134.195.196.3, 6379, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false
-🇨🇦 _CA_加拿大_42 = ss, 134.195.196.187, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false
-🇨🇦 _CA_加拿大_43 = ss, 134.195.196.3, 3306, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false
-🇨🇦 _CA_加拿大_44 = ss, 134.195.196.3, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false
-🇯🇵 _JP_日本_45 = ss, 85.208.108.90, 2376, encrypt-method=aes-256-gcm, password=faBAoD54k87UJG7, tfo=false
+🇫🇷 _FR_法国_1 = ss, 51.255.66.185, 8080, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_2 = ss, 134.195.196.3, 9101, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
+🇺🇸 _US_美国_3 = ss, 38.143.66.71, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
+🇬🇧 _GB_英国_4 = ss, 172.99.190.92, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_5 = ss, 134.195.196.68, 5601, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_6 = ss, 134.195.196.3, 5500, encrypt-method=aes-256-gcm, password=KixLvKzwjekG00rm, tfo=false, udp-relay=true
+🇬🇧 _GB_英国_7 = ss, 172.99.190.92, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_8 = ss, 134.195.196.68, 5001, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_9 = ss, 134.195.196.3, 7307, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+🇩🇪 default_name_10 = vmess, cm.db-link.in, 443, username=64e167a8-5cf1-3bbc-866e-13e43b97dda0, tls=true, tls13=false, ws=true, ws-path=/db, sni=cm.db-link.in, ws-headers=Host:cm.db-link.in, skip-cert-verify=0, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_11 = ss, 134.195.196.68, 8009, encrypt-method=aes-256-gcm, password=XKFKl2rULjIp74, tfo=false, udp-relay=true
+🇺🇸 _US_美国_12 = ss, 169.197.142.187, 5601, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_13 = ss, 134.195.196.68, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_14 = ss, 134.195.196.3, 443, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
+🇺🇸 _US_美国_15 = vmess, 104.24.54.206, 443, username=3c581ecc-ea0e-4d20-d526-46397c98e99e, tls=true, tls13=false, ws=true, ws-path=/dashanpao.mp3, sni=104.24.54.206, ws-headers=Host:104.24.54.206, skip-cert-verify=0, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_16 = ss, 134.195.196.68, 8888, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇫🇷 _FR_法国_17 = ss, 51.255.66.185, 7306, encrypt-method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tfo=false, udp-relay=true
+🇬🇧 _GB_英国_18 = ss, 172.99.190.92, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇺🇸 _US_美国_19 = ss, 169.197.142.99, 8091, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false, udp-relay=true
+🇺🇸 _US_美国_20 = vmess, 208.98.48.2, 443, username=aba50dd4-5484-3b05-b14a-4661caf862d5, tls=true, tls13=false, ws=true, ws-path=/ws, sni=208.98.48.2, ws-headers=Host:208.98.48.2, skip-cert-verify=0, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_21 = ss, 134.195.196.3, 8881, encrypt-method=aes-256-gcm, password=kDWvXYZoTBcGkC4, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_22 = ss, 134.195.196.3, 6379, encrypt-method=aes-256-gcm, password=zDNVedRFPQexG9v, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_23 = ss, 134.195.196.3, 3306, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇫🇷 _FR_法国_24 = ss, 51.255.66.185, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇺🇸 _US_美国_25 = ss, 169.197.142.99, 8090, encrypt-method=aes-256-gcm, password=PCnnH6SQSnfoS27, tfo=false, udp-relay=true
+🇬🇧 _GB_英国_26 = ss, 172.99.190.92, 9102, encrypt-method=aes-256-gcm, password=e4FCWrgpkji3QY, tfo=false, udp-relay=true
+🇺🇸 _US_美国_27 = ss, 169.197.142.99, 7002, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇺🇸 _US_美国_28 = ss, 38.91.100.102, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
+🇬🇧 _GB_英国_29 = ss, 145.239.7.164, 3389, encrypt-method=aes-256-gcm, password=Y6R9pAtvxxzmGC, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_30 = ss, 134.195.196.68, 4444, encrypt-method=aes-256-gcm, password=pKEW8JPByTVTLtM, tfo=false, udp-relay=true
+🇫🇷 _FR_法国_31 = ss, 51.255.66.185, 7001, encrypt-method=aes-256-gcm, password=RexnBgU7EV5ADxG, tfo=false, udp-relay=true
+🇨🇦 _CA_加拿大_32 = ss, 134.195.196.68, 8118, encrypt-method=aes-256-gcm, password=cdBIDV42DCwnfIN, tfo=false, udp-relay=true
