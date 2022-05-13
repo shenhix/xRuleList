@@ -1,12 +1,29 @@
-31.『ChinaG』几鸡-学习助理 = vmess, yqy2331.china-cdn-net.com, 2331, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-32.官网：http://a.luxury = vmess, yqy2332.china-cdn-net.com, 2332, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-33.公益等级線路嚴格限速 = vmess, yqy2333.china-cdn-net.com, 2333, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-34.捐赠解锁更多协议线路 = vmess, yqy2334.china-cdn-net.com, 2334, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-35.包括V2ray和Trojan = vmess, yqy2335.china-cdn-net.com, 2335, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-36.中继中转隧道线路覆盖 = vmess, yqy2336.china-cdn-net.com, 2336, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-37.长期套餐覆盖IPLC专线 = vmess, yqy2337.china-cdn-net.com, 2337, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-38.官网：http://j05.space = vmess, yqy2338.china-cdn-net.com, 2338, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-H.TW.高雄.龍抬頭⇠HiNet:VC33135 = vmess, yqy33135.china-cdn-net.com, 33135, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-H.TW.高雄.龍抬頭⇠HiNet:VC33136 = vmess, yqy33136.china-cdn-net.com, 33136, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-I.TW.高雄.龍抬頭⇠HiNet:VC33137 = vmess, yqy33137.china-cdn-net.com, 33137, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
-I.TW.高雄.龍抬頭⇠HiNet:VC33138 = vmess, yqy33138.china-cdn-net.com, 33138, username = 326758c4-17da-38d2-bee7-90023aba9cad, ws=true, ws-path=/iso, ws-headers=host:
+31.『ChinaG』几鸡-学习助理 = trojan, yqy2351.china-cdn-net.com, 2351, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+32.官网：http://a.luxury = trojan, yqy2352.china-cdn-net.com, 2352, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+33.公益等级線路嚴格限速 = trojan, yqy2353.china-cdn-net.com, 2353, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+34.捐赠解锁更多协议线路 = trojan, yqy2354.china-cdn-net.com, 2354, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+35.包括V2ray和Trojan = trojan, yqy2355.china-cdn-net.com, 2355, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+36.中继中转隧道线路覆盖 = trojan, yqy2356.china-cdn-net.com, 2356, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+37.长期套餐覆盖IPLC专线 = trojan, yqy2357.china-cdn-net.com, 2357, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+38.官网：http://j05.space = trojan, yqy2358.china-cdn-net.com, 2358, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.TW.高雄.龍抬頭⇠HiNet:VC33115 = trojan, yqy33115.china-cdn-net.com, 33115, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.TW.高雄.龍抬頭⇠HiNet:VC33116 = trojan, yqy33116.china-cdn-net.com, 33116, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]HK.HKT⇠BGP:RC36213 = trojan, yqy36213.china-cdn-net.com, 36213, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]HK.HKT⇠BGP:RC36313 = trojan, yqy36313.china-cdn-net.com, 36313, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]HK.HKT⇠BGP:VC36113 = trojan, yqy36113.china-cdn-net.com, 36113, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]HK.HKT⇠BGP:VC36413 = trojan, yqy36413.china-cdn-net.com, 36413, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]TW.台北⇠HiNet:VC31115 = trojan, yqy31115.china-cdn-net.com, 31115, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]TW.台北⇠HiNet:VC31116 = trojan, yqy31116.china-cdn-net.com, 31116, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]TW.彰化⇠HiNet:VC32115 = trojan, yqy32115.china-cdn-net.com, 32115, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+H.[3倍]TW.彰化⇠HiNet:VC32116 = trojan, yqy32116.china-cdn-net.com, 32116, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.SG⇠广州:VC38115 = trojan, yqy38115.china-cdn-net.com, 38115, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.TW.高雄.龍抬頭⇠HiNet:VC33117 = trojan, yqy33117.china-cdn-net.com, 33117, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.TW.高雄.龍抬頭⇠HiNet:VC33118 = trojan, yqy33118.china-cdn-net.com, 33118, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍].HK.HKT⇠BGP:RC36114 = trojan, yqy36114.china-cdn-net.com, 36114, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍].HK.HKT⇠BGP:RC36214 = trojan, yqy36214.china-cdn-net.com, 36214, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍].HK.HKT⇠BGP:RC36314 = trojan, yqy36314.china-cdn-net.com, 36314, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍].HK.HKT⇠BGP:VC36414 = trojan, yqy36414.china-cdn-net.com, 36414, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍]TW.台北⇠HiNet:VC31117 = trojan, yqy31117.china-cdn-net.com, 31117, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍]TW.台北⇠HiNet:VC31118 = trojan, yqy31118.china-cdn-net.com, 31118, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍]TW.彰化⇠HiNet:VC32117 = trojan, yqy32117.china-cdn-net.com, 32117, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
+I.[6倍]TW.彰化⇠HiNet:VC32118 = trojan, yqy32118.china-cdn-net.com, 32118, password=326758c4-17da-38d2-bee7-90023aba9cad, sni=cdn-debian.org
