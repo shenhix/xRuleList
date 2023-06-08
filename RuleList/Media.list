@@ -49,9 +49,8 @@ DOMAIN-KEYWORD,sbvideocdn
 DOMAIN-SUFFIX,gslb.ru
 
 # clubhouse
-DOMAIN-SUFFIX, amplitude.com
-DOMAIN-SUFFIX, clubhouse.com
-DOMAIN-SUFFIX, clubhouseapi.com
-DOMAIN-SUFFIX, joinclubhouse.com
-DOMAIN-SUFFIX, pubnub.com
-DOMAIN-SUFFIX, pubnubapi.com
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
