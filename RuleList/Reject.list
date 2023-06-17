@@ -1,2 +1,18 @@
 # app 测试 app-measurement.com
 DOMAIN-SUFFIX,app-measurement.com
+
+# youtube dler原始版本
+URL-REGEX,https?:\/\/.+\.googlevideo\.com\/.+?)(&ctier=L|\/ctier\/L)((&|\/).+?)(,ctier|%2Cctier)((,|%2C)
+URL-REGEX,https?:\/\/.+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+(&oad|ctier)
+URL-REGEX,https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost
+URL-REGEX,https?:\/\/.+\.youtube\.com\/api\/stats\/ads
+URL-REGEX,https?:\/\/.+\.youtube\.com\/get_midroll_
+URL-REGEX,https?:\/\/.+\.youtube\.com\/(pagead|ptracking)\/
+URL-REGEX,https?:\/\/.+\.youtube\.com\/_get_ads
+URL-REGEX,https?:\/\/premiumyva\.appspot\.com\/vmclickstoadvertisersite
+URL-REGEX,https?:\/\/s0\.2mdn\.net\/ads\/
+URL-REGEX,https?:\/\/stats\.tubemogul\.com\/stats\/
+URL-REGEX,https?:\/\/youtubei\.googleapis\.com\/.+ad_break
+URL-REGEX,https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+(ad|log)
+URL-REGEX,https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?.*adformat
+URL-REGEX,https?:\/\/(?!redirector)[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)(ctier=L)(&.+)
