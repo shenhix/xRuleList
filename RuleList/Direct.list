@@ -17,5 +17,5 @@ PROCESS-NAME,WebTorrent Helper
 
 # > ipv6
 2409:8087:7000:20::#
-
+SRC-IP,2409:8087:7000:20::*
 
