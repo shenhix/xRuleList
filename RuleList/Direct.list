@@ -1,5 +1,5 @@
 # > ipv6 直连
-#IP-CIDR6,::/0,DIRECT
+IP-CIDR6,2409:8087::/0,DIRECT
 
 # Client
 # > Proxy
