@@ -1,3 +1,6 @@
+# > ipv6 直连
+IP-CIDR6,::/0,DIRECT
+
 # Client
 # > Proxy
 PROCESS-NAME,v2ray
