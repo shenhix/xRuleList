@@ -15,4 +15,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 
+# > ipv6
+2409:8087:7000:20::#
+
 
