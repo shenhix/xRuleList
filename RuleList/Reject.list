@@ -1,3 +1,6 @@
+# 防止应用循环请求
+IP-CIDR,0.0.0.0/32
+
 # app 测试 app-measurement.com
 DOMAIN-SUFFIX,app-measurement.com
 
