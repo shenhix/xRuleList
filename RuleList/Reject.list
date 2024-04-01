@@ -2,7 +2,7 @@
 IP-CIDR,0.0.0.0/32
 
 # > 拒绝请求；与 REJECT 不同，此策略会默默地丢弃请求
-AND,((PROTOCOL,UDP), (DEST-PORT,443)),REJECT-NO-DROP
+AND,((PROTOCOL,UDP), (DEST-PORT,443))
 
 # app 测试 app-measurement.com
 DOMAIN-SUFFIX,app-measurement.com
