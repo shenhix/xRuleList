@@ -2,8 +2,6 @@
 # 美团
 DOMAIN-SUFFIX,d.meituan.net, // Added for: route-stats.d.meituan.net:443
 DOMAIN-SUFFIX,speedv6.m.jd.com // Added for: speedv6.m.jd.com:443
-DOMAIN-SUFFIX,spotify.com,DIRECT
-DOMAIN-SUFFIX,zhuishudashi.net// Added for: g-lens2.zhuishudashi.net:443
 
 # > APTV ipv6 直连
 IP-CIDR6,2409:8087::/32,DIRECT
