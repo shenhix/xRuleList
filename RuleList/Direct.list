@@ -8,6 +8,7 @@ IP-CIDR6,2409:8087::/32
 
 # 抖音IPV6直连
 IP-CIDR6,240E::/32
+IP-CIDR6,2409::/32
 
 # Client
 # > Proxy
