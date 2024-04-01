@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,d.meituan.net, // Added for: route-stats.d.meituan.net:443
 DOMAIN-SUFFIX,speedv6.m.jd.com // Added for: speedv6.m.jd.com:443
 
 # > APTV ipv6 直连
-IP-CIDR6,2409:8087::/32,DIRECT
+IP-CIDR6,2409:8087::/32
 
 # Client
 # > Proxy
@@ -23,4 +23,10 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 
+# 淘宝推广
+DOMAIN-SUFFIX,tce.alicdn.com
+
+# Alibaba
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
 
