@@ -6,10 +6,6 @@ DOMAIN-SUFFIX,speedv6.m.jd.com // Added for: speedv6.m.jd.com:443
 # > APTV ipv6 直连
 IP-CIDR6,2409:8087::/32
 
-# 抖音IPV6直连
-IP-CIDR6,240E::/32
-IP-CIDR6,2409::/32
-
 # Client
 # > Proxy
 PROCESS-NAME,v2ray
