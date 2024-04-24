@@ -1,8 +1,6 @@
 # > TikTok
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list
 
-RULE-SET,https://raw.githubusercontent.com/shenhix/xRuleList/x/RuleList/test.list
-
 # > Telegram
 DOMAIN-SUFFIX,t.me,Telegram
 DOMAIN-SUFFIX,tdesktop.com,Telegram
