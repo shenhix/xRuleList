@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,lookup-api.apple.com
 
 # 漫画
 DOMAIN-SUFFIX,nhentai.net
+
+# taleie
+DOMAIN-SUFFIX,talkie-ai.com
