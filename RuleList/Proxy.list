@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,nhentai.net
 
 # talkie
 DOMAIN-SUFFIX,talkie-ai.com
+
+# emby
+PROCESS-NAME,Emby
