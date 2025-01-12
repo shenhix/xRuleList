@@ -175,7 +175,7 @@ hostname = %APPEND% duckduckgo.com
 ^https:\/\/duckduckgo.com\/\?q=jab(\+|%20)([^&]+).+ https://jable.tv/search/$2/ 302
 
 # missav
-^https:\/\/duckduckgo.com\/\?q=missav(\+|%20)([^&]+).+ https://missav.com/cn/search/$2/ 302
+^https:\/\/duckduckgo.com\/\?q=missav(\+|%20)([^&]+).+ https://missav.ws/cn/search/$2/ 302
 
 # 默认搜索
 
