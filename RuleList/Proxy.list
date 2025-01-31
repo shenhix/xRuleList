@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,talkie-ai.com
 
 # emby
 PROCESS-NAME,Emby
+
+# deepseek
+DOMAIN-SUFFIX,deepseek.com
