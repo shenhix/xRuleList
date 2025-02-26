@@ -1,5 +1,5 @@
 # > EMBY终点站
-DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.wtf,force-remote-dns
 
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
