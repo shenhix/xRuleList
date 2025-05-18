@@ -178,6 +178,12 @@ hostname = %APPEND% duckduckgo.com
 # missav
 ^https:\/\/duckduckgo.com\/\?q=missav(\+|%20)([^&]+).+ https://missav.ws/cn/search/$2/ 302
 
+# 123av
+^https:\/\/duckduckgo.com\/\?q=123(\+|%20)([^&]+).+ https://123av.com/en/search/$2/ 302
+
+# 24av
+^https:\/\/duckduckgo.com\/\?q=24(\+|%20)([^&]+).+ https://24av.net/zh/search/$2/ 302
+
 # 默认搜索
 
 # bi: 必应
